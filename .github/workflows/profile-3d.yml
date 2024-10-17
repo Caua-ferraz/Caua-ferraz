@@ -11,9 +11,11 @@ jobs:
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.PAT_FOR_PROFILE_3D }}
       - uses: yoshi389111/github-profile-3d-contrib@0.6.0
         env:
-          GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PAT_FOR_PROFILE_3D }}
           USERNAME: ${{ github.repository_owner }}
       - name: Commit & Push
         run: |
@@ -22,3 +24,5 @@ jobs:
           git add -A .
           git commit -m "generated"
           git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT_FOR_PROFILE_3D }}
