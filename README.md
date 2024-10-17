@@ -33,7 +33,7 @@ I'm a **Senior FullStack Developer** with extensive experience in building scala
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma- F24E1E?style=flat&logo=figma&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ## 🚀 Projects
 
@@ -79,6 +79,18 @@ Educational framework exploring ergonomic, lightweight multi-agent orchestration
 ## 📝 Latest Contributions
 
 <!-- Add your latest contributions here -->
+
+## 📈 Most Used Languages
+
+![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Caua-ferraz&theme=dracula)
+
+## 🛠️ Commit Activity
+
+![Commit Activity](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Caua-ferraz&theme=dracula)
+
+## 🕒 Productive Time
+
+![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Caua-ferraz&theme=dracula&utcOffset=-3)
 
 ## 📫 Get in Touch
 
