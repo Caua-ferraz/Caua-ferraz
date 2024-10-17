@@ -22,18 +22,21 @@ I'm a **Senior FullStack Developer** with extensive experience in building scala
 
 ### 🔧 Technologies & Tools
 
-![Python](https://img.shields.io/badge/-Python-FFD43B?style=flat&logo=python&logoColor=3776AB)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=323330)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Microservices](https://img.shields.io/badge/-Microservices-1572B6?style=flat&logo=microservices&logoColor=white)
 
 ## 🚀 Projects
 
@@ -72,30 +75,10 @@ Educational framework exploring ergonomic, lightweight multi-agent orchestration
 **Language:** Python  
 **⭐ Stars:** 1
 
-## 📊 GitHub Stats
-
-![Cauã's GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Caua-ferraz&theme=dracula)
-
-## 📝 Latest Contributions
-
-<!-- Add your latest contributions here -->
-
-## 📈 Most Used Languages
-
-![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Caua-ferraz&theme=dracula)
-
-## 🛠️ Commit Activity
-
-![Commit Activity](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Caua-ferraz&theme=dracula)
-
-## 🕒 Productive Time
-
-![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Caua-ferraz&theme=dracula&utcOffset=-3)
-
 ## 📫 Get in Touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/caua-ferraz/)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-purple)](https://www.instagram.com/Caua-ferraz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/cau%C3%A3-ferraz-397388269/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-purple)](https://www.instagram.com/eucauaf/)
 
 ---
 
