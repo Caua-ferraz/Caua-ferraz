@@ -78,7 +78,7 @@ Educational framework exploring ergonomic, lightweight multi-agent orchestration
 ## 📫 Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/cau%C3%A3-ferraz-397388269/)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-purple)](https://www.instagram.com/eucauaf/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-purple)](https://www.instagram.com/eucauaf/) 
 
 ---
 
