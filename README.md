@@ -26,7 +26,3 @@ Physics engine exploring realistic motion and particle interactions.
 - 💼 ~8 years of freelance backend work — started on Fiverr as a kid, scaled to full systems
 - 🔧 Most comfortable in **Python** and **C++**, but I build full-stack when needed
 - 🇧🇷 Based in Brazil
-
-## Let's connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cau%C3%A3-ferraz-397388269/)
