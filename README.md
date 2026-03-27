@@ -1,6 +1,6 @@
 # Hey, I'm Cauã Ferraz 👋
 
-I've been writing code since I was 7 and started freelancing at 9 — fixing broken websites and building small apps for clients on Fiverr. Now I'm a **Computer Engineering student at Inatel** and focused on backend development, systems programming, and building things that actually work.
+Now I'm a **Computer Engineering student at Inatel** and focused on backend development, systems programming, and building things that actually work.
 
 ## What I work with
 
