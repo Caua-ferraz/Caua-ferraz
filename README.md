@@ -8,7 +8,7 @@ Now I'm a **Computer Engineering student at Inatel** and focused on backend deve
 
 ## Projects
 
-### 🧾 [AgentGuard]([https://github.com/Caua-ferraz/BilQuick_Boilerplate](https://github.com/Caua-ferraz/AgentGuard))
+### 🧾 [AgentGuard](https://github.com/Caua-ferraz/AgentGuard)
 AgentGuard is a firewall for AI agents, preventing that any unwanted surprises go without supervision by your agent
 `Go` `TypeScript` `Python`
 
